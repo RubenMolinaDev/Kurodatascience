@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://RubenMolinaDev.github.io/Kurodatascience/categories/</loc>
-  </url><url>
     <loc>https://RubenMolinaDev.github.io/Kurodatascience/</loc>
+    <lastmod>2022-11-23T10:47:45+01:00</lastmod>
+  </url><url>
+    <loc>https://RubenMolinaDev.github.io/Kurodatascience/posts/my-first-post/</loc>
+    <lastmod>2022-11-23T10:47:45+01:00</lastmod>
+  </url><url>
+    <loc>https://RubenMolinaDev.github.io/Kurodatascience/posts/</loc>
+    <lastmod>2022-11-23T10:47:45+01:00</lastmod>
+  </url><url>
+    <loc>https://RubenMolinaDev.github.io/Kurodatascience/categories/</loc>
   </url><url>
     <loc>https://RubenMolinaDev.github.io/Kurodatascience/tags/</loc>
   </url>
