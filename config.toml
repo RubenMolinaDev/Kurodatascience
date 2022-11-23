@@ -1,7 +1,8 @@
-baseURL = 'http://example.org/'
+baseUrl = 'https://RubenMolinaDev.github.io/Kurodatascience'
 languageCode = 'en-us'
 title = 'Kuro Data Science'
 theme = "paper"
+publishDir = "docs"
 
 disqusShortname = 'YOUR_DISQUS_SHORTNAME'   # add disqus comments
 
