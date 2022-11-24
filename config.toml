@@ -25,3 +25,15 @@ disqusShortname = 'YOUR_DISQUS_SHORTNAME'   # add disqus comments
   disableHLJS = true              # disable requesting highlight.js
   monoDarkIcon = true             # show monochrome dark mode icon
   
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
+    weight = 10
