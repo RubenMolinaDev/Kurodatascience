@@ -24,3 +24,4 @@ disqusShortname = 'YOUR_DISQUS_SHORTNAME'   # add disqus comments
   # misc
   disableHLJS = true              # disable requesting highlight.js
   monoDarkIcon = true             # show monochrome dark mode icon
+  
